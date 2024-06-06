@@ -1,0 +1,2 @@
+
+clear, & "C:/Users/ENGR SAMBO/AppData/Local/Programs/Python/Python312/python.exe" "c:/Users/ENGR SAMBO/Desktop/python workspace/python/week5.py", & "C:/Users/ENGR SAMBO/AppData/Local/Programs/Python/Python312/python.exe" "c:/Users/ENGR SAMBO/Desktop/python workspace/python/week5.py", & "C:/Users/ENGR SAMBO/AppData/Local/Programs/Python/Python312/python.exe" "c:/Users/ENGR SAMBO/Desktop/python workspace/python/week5.py"
