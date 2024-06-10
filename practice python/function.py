@@ -66,6 +66,14 @@ print(interest(1000,2,5 ))
 
 #         raise ValueError('rate must be integer and less than 100')
 # print(interest(1000,120,5))
+# arbitrary number of argument
+def add_number(*args):
+    total = 0
+    for i in args:
+         total = total + i
+    return total
+print(add_number(2,4,5,2,6,23,40,-40,4,5))
+
 
 
         
