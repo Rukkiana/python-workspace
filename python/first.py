@@ -18,7 +18,7 @@ print('Hello '+ first_name + last_name + ' you are ' , age ,' years old')
 # basic synthax,if/else and loops
 x = 6
 if x > 5:
-    print( 'x is greater than 5')
+    print ( 'x is greater than 5')
 
     count = 5
     while count < 5:
